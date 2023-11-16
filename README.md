@@ -3,5 +3,6 @@ I am a dedicated tech expert who constantly strives for development. I always pr
 
 [LOOK AT MY POTFOLIO](https://github.com/agakalinowski/Portfolio)
 
-![Alt Text](https://github.com/agakalinowski/agakalinowski/blob/main/Beznazwy-2.jpg)
+![Alt Text](https://github.com/agakalinowski/agakalinowski/blob/main/portfolio.jpg)
+
 
