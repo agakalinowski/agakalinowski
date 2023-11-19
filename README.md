@@ -10,6 +10,8 @@
 
 
 
-![Opis Zdjęcia](https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg)
+<div style="text-align:center">
+  <img src="https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg" alt="Opis Zdjęcia">
+</div>
 
 *Zdjęcie pochodzi z [FreePik](https://www.freepik.com/).*
