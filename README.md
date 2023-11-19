@@ -10,6 +10,6 @@
 
 
 
-![Opis Zdjęcia]([https://www.freepik.com/premium-vector/share-market-analysis_31198909.htm#page=3&query=testing%20amp%20analysis&position=20&from_view=search&track=ais&uuid=cdad6c5d-7895-4e7c-aee0-bc89e2f0f762](https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg?w=1380)https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg?w=1380)
+![Opis Zdjęcia](https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg)
 
 *Zdjęcie pochodzi z [FreePik](https://www.freepik.com/).*
