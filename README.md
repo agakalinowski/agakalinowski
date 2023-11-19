@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/agakalinowski/Portfolio" target="_blank"><b>LOOK AT MY PORTFOLIO</b></a> |
-  <a href="https://github.com/agakalinowski/MySQL" target="_blank">[My commercials projects]</a> |
-  <a href="https://github.com/agakalinowski/Internship_at_TestArmy" target="_blank">[Intership]</a>
+  <a href="https://github.com/agakalinowski/MySQL" target="_blank"><b>[My commercials projects]</b></a> |
+  <a href="https://github.com/agakalinowski/Internship_at_TestArmy" target="_blank"><b>[Intership]</b></a>
 </p>
+
 
 
 
