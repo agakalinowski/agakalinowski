@@ -17,6 +17,6 @@
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg" alt="Opis Zdjęcia">
   <br>
-  <em>Photo by <a href="https://www.freepik.com/" target="_blank">FreePik</a>.</em>
+  <em>Photo from <a href="https://www.freepik.com/" target="_blank">FreePik</a>.</em>
 </p>
 
