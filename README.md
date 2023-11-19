@@ -14,5 +14,10 @@
   <img src="https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg" alt="Opis Zdjęcia">
 </p>
 
-*Zdjęcie pochodzi z [FreePik](https://www.freepik.com/).*
+
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/share-market-analysis_701961-537.jpg" alt="Opis Zdjęcia">
+  <br>
+  <em>Zdjęcie pochodzi z <a href="https://www.freepik.com/" target="_blank">FreePik</a>.</em>
+</p>
 
