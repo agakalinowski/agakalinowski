@@ -7,3 +7,9 @@
 <p align="center">
   <a href="https://github.com/agakalinowski/Portfolio" target="_blank"><b>LOOK AT MY PORTFOLIO</b></a>
 </p>
+
+
+
+![Opis Zdjęcia](https://www.freepik.com/premium-vector/share-market-analysis_31198909.htm#page=3&query=testing%20amp%20analysis&position=20&from_view=search&track=ais&uuid=cdad6c5d-7895-4e7c-aee0-bc89e2f0f762)
+
+*Zdjęcie pochodzi z [FreePik](https://www.freepik.com/).*
